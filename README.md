@@ -1,4 +1,4 @@
-# project-2
+cd  cd# project-2
 this is my first git repository.
 <br>
-auther - sohaiba
+auther - sohaiba Nadeem
